@@ -1,0 +1,6 @@
+aws_region = "ap-south-1"
+ami_id = "ami-019715e0d74f695be"
+instance_type = "t3.micro"
+instance_name = "ec2-server"
+bucket_name = "terraform-bucket-dev-999"
+environment = "dev"
